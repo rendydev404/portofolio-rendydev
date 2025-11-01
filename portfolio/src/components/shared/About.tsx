@@ -23,7 +23,7 @@ const About = () => {
             className="md:w-1/3 mb-8 md:mb-0"
           >
             <img
-              src="https://via.placeholder.com/300"
+              src="https://avatars.githubusercontent.com/u/12345678?v=4"
               alt="Profile"
               className="rounded-full mx-auto"
             />
@@ -35,10 +35,7 @@ const About = () => {
             className="md:w-2/3 md:pl-8"
           >
             <p className="text-lg">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-              euismod, nisl nec ultricies lacinia, nisl nisl aliquet nisl, nec
-              lacinia nisl nisl nec nisl. Sed euismod, nisl nec ultricies
-              lacinia, nisl nisl aliquet nisl, nec lacinia nisl nisl nec nisl.
+              I am a passionate and creative developer with a strong background in building modern, responsive, and user-friendly web applications. I have experience working with a variety of technologies, including React, Next.js, and Tailwind CSS. I am always eager to learn new things and take on new challenges.
             </p>
           </motion.div>
         </div>

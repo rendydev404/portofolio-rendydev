@@ -6,19 +6,19 @@ import ProjectCard from '../ui/ProjectCard';
 
 const projects = [
   {
-    title: 'Project 1',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
-    link: '#',
+    title: 'E-commerce Website',
+    description: 'A full-featured e-commerce website built with Next.js, Stripe, and Sanity.',
+    link: 'https://github.com/example/ecommerce-website',
   },
   {
-    title: 'Project 2',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
-    link: '#',
+    title: 'Portfolio Website',
+    description: 'A personal portfolio website to showcase my skills and projects.',
+    link: 'https://github.com/example/portfolio-website',
   },
   {
-    title: 'Project 3',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
-    link: '#',
+    title: 'Blog Platform',
+    description: 'A content-rich blog platform with a modern design and a powerful CMS.',
+    link: 'https://github.com/example/blog-platform',
   },
 ];
 
